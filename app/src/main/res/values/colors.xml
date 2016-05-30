@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_default">#00999999</color>
+    <color name="button_recording">#88ff6666</color>
+    <color name="button_playing">#8866ff66</color>
+    <color name="background_splash">#ff06060c</color>
+
+
+    <color name="white">#ffffffff</color>
+    <color name="light_gray">#ababab</color>
+    <color name="yellow">#fffffe00</color>
+    <color name="black">#ff000000</color>
+    <color name="background">#ff06060c</color>
+
+</resources>

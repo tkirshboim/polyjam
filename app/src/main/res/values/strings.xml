@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Polyjam</string>
+    <string name="about_activity">About</string>
+
+    <string name="version">Polyjam App - version %s</string>
+
+    <string name="welcome_text">Welcome to Polyjam</string>
+    <string name="lobby_title">Please wait while we\'re connecting to the Polyjam Server...</string>
+    <string name="enter_name">Enter your name\n and join the jam:</string>
+    <string name="enter_name_cap">ENTER YOUR NAME AND JOIN THE JAM</string>
+
+    <string name="enter_email">If you had fun and want to keep in touch, please leave us your
+        email:
+    </string>
+
+    <string name="enjoy">Enjoy the party!</string>
+
+    <string name="waiting_for_server">Looking for Polyjam server...</string>
+    <string name="server_found">Server found!</string>
+    <string name="server_not_found">Something went wrong..\nGo to the Polyjam people.\nThey will
+        help you.
+    </string>
+    <string name="title_activity_lobby">LobbyActivity</string>
+
+    <string name="preplay_text_title">You\'re On!</string>
+
+    <string name="status">loading status...</string>
+    <string name="title_activity_ready_to_go">Ready To Jam?</string>
+
+    <string name="registered_text">Hi!\nYou are now registered.\nPlease wait, we will text you when
+        it\'s your turn..
+    </string>
+    <string name="registered_email_text">Please take a moment to leave us your email.</string>
+
+    <string name="title_postplay">Nice One!</string>
+    <string name="text_postplay">But there\'s someone else that wants to jam now ...\nStick around
+        and we\'ll text you again when it\'s your turn.\n
+    </string>
+
+</resources>
